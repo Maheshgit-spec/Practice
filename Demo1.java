@@ -4,7 +4,10 @@ class Demo
     {
         System.out.println("wel come to my world...");
    
-           System.out.println("this new one  also");
+         public static void check()
+         {
+            System.out.println("this is the check method")
+         }
 
     }
 }
